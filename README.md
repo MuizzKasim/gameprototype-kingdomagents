@@ -1,5 +1,7 @@
 # Game Prototype: Kingdom Agents
-A game prototype made using Unity Engine which implements a programming-inspired game mechanics <br /><br/>
+A game prototype made using Unity Engine which implements a programming-inspired game mechanics <br />
+Note: Game contains no sounds
+<br/><br/>
 You can try the game yourself using the following link: <br />http://surl.li/fnuic
 <br />(File size:~12MB, compressed)<br/><br/>
 This game was a UTB group project and it was developed by a group of two members:<br/>
