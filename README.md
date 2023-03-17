@@ -9,11 +9,11 @@ This game was a UTB group project and it was developed by a group of two members
    Role: Main Programmer
 <br/><br/>
 
-Game title: Kingdom Agents
+Game title: <br/>Kingdom Agents
 <br/><br/>
-Genre: 2D Puzzle game
+Genre: <br/>2D Puzzle game
 <br/><br/>
-Platform: Windows PC
+Platform: <br/>Windows PC
 <br/><br/>
 
 Game description: <br/>
